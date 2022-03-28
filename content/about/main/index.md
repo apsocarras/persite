@@ -7,7 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  After wading neck-deep in the humanities for years, the jump to math and statistics has been a fun (if messy) transition. Apart from a few credits in undergrad, I've had to take all my coursework online post-graduation: [Intro to Proofs](https://math.jhu.edu/~eriehl/301/), Calc I-II, Abstract Algebra, [Abstract Linear Algebra](https://netmath.illinois.edu/college/math-416), Calc III and Real Analysis (both ongoing). Some of this I managed to complete while full-time at SAMS, but I decided to leave in order to dedicate more time to my studies.
+  After years of wading neck-deep in the humanities, the jump to math and statistics has been a fun (if messy) transition. Apart from a few credits in undergrad, I've had to take all my coursework online post-graduation: [Intro to Proofs](https://math.jhu.edu/~eriehl/301/), Calc I-II, Abstract Algebra, [Abstract Linear Algebra](https://netmath.illinois.edu/college/math-416), Calc III and Real Analysis (both ongoing). Some of this I managed to complete while full-time at SAMS, but I decided to leave in order to dedicate more time to my studies.
   
   My education in R has been informal and primarily project-based. See my projects page for samples of my work.
   
